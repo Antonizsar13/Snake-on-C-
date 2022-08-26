@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\My programs\My programs\C++\snake\snake\Source.cpp(138,6): warning C4551: в вызове функции отсутствует список аргументов
+D:\My programs\My programs\C++\snake\snake\Source.cpp(243,7): warning C4551: в вызове функции отсутствует список аргументов
+D:\My programs\My programs\C++\snake\snake\Source.cpp(408,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\My programs\My programs\C++\snake\snake\Source.cpp(415,7): warning C4551: в вызове функции отсутствует список аргументов
+  snake.vcxproj -> D:\My programs\My programs\C++\snake\x64\Debug\snake.exe
